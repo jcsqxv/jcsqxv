@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacobs Agyei</h1>
 <h3 align="center">Passionate and aspiring Data Scientist from Ghana</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacobsqxv" alt="Jacobs" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacobsqxv&theme=onedark" alt="Jacobs" /></a> </p>
 
 - 🔭 I’m currently working on **Final Year Project**
 
@@ -32,4 +32,4 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobsqxv&show_icons=true&locale=en&layout=compact" alt="jacobs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobsqxv&show_icons=true&locale=en&layout=compact&theme=onedark" alt="jacobs" /></p>
