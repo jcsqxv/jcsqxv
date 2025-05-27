@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacobsqxv" alt="Jacobs" /></a> </p>
 
-- 🔭 I’m currently working on **Final Year Project**
-
-- 🌱 I’m currently learning **everything 🤣**
+- 🌱 I’m currently dabbling in **Kotlin**
 
 - 💬 Ask me about **anything?**
 
