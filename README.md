@@ -15,4 +15,4 @@ I'm **Jacobs**, a backend-focused software developer and cloud enthusiast based 
 ---
 
 ### 🛠️ Technologies I use
-[![Technologies](https://skillicons.dev/icons?i=java,kotlin,spring,postgres,git,docker,aws,graphql&perline=8)](https://github.com/jacobsqxv)
+[![Technologies](https://skillicons.dev/icons?i=java,kotlin,spring,postgres,git,docker,aws,graphql&perline=8)](https://github.com/jcsqxv)
