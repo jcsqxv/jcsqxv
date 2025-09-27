@@ -4,7 +4,7 @@ I'm **Jacobs**, a backend-focused software developer and cloud enthusiast based 
 ### 👨‍💻 About me
 - 🔭 Currently building software at [@Amali-Tech](https://github.com/Amali-Tech)
 - 🌱 Deepening my skills in [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/), and backend architecture
-- 🤝 Open to collaborating on impactful side projects
+- 🤝 Open to collaborating on impactful projects
 - 📫 Reach me anytime: `agyeijacobs@outlook.com`
 
 <p>
