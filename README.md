@@ -1,11 +1,11 @@
 ## Hi there 👋
-I'm **Jacobs**, a backend-focused software developer and cloud enthusiast based in Ghana.</br>
+I'm **Jacobs**, a backend-heavy software dev getting deeper into cloud technologies.</br>
 
 ### 👨‍💻 About me
-- 🔭 Currently building software at [@Adaptive Computer Solutions]()
-- 🌱 Deepening my skills in [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/), [C#](https://dotnet.microsoft.com/en-us/languages/csharp), and backend architecture
-- 🤝 Open to collaborating on impactful projects
-- 📫 Reach me anytime: `agyeijacobs@outlook.com`
+- 🔭 Building and maintaining systems at [@Adaptive Computer Solutions]()
+- 🌱 Leveling up in [Java](https://www.java.com/), [Kotlin](https://kotlinlang.org/), [C#](https://dotnet.microsoft.com/en-us/languages/csharp), and anything that sharpens my overall engineering skillset
+- 🤝 Open to teaming up on solid projects
+- 📫 Reach me at: `agyeijacobs@outlook.com`
 
 <p>
  <a href="https://www.linkedin.com/in/jacobsagyei" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -15,4 +15,4 @@ I'm **Jacobs**, a backend-focused software developer and cloud enthusiast based 
 ---
 
 ### 🛠️ Technologies I use
-[![Technologies](https://skillicons.dev/icons?i=java,kotlin,spring,postgres,git,docker,aws,graphql&perline=8)](https://github.com/jcsqxv)
+[![Technologies](https://skillicons.dev/icons?i=java,kotlin,spring,dotnet,graphql,docker,git,github,azure,aws&theme=light)](https://github.com/jcsqxv)
