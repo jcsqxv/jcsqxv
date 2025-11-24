@@ -15,4 +15,4 @@ I'm **Jacobs**, a backend-heavy software dev getting deeper into cloud technolog
 ---
 
 ### 🛠️ Technologies I use
-[![Technologies](https://skillicons.dev/icons?i=java,kotlin,spring,dotnet,graphql,docker,git,azure,aws&theme=light)](https://github.com/jcsqxv)
+[![Technologies](https://skillicons.dev/icons?i=java,kotlin,cs,spring,dotnet,graphql,postgres,mongodb,docker,azure,aws&theme=light)](https://github.com/jcsqxv)
